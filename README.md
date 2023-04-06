@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @456geeta789
+- 👋 Hi, I’m sourav singh
 - 👀 I’m interested in coding and software
 - 🌱 I’m currently learning bsc in computer science
 - 💞️ I’m looking to collaborate internships
